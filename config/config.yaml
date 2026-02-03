@@ -106,10 +106,20 @@ platforms:
       name: "财联社 电报"
     - id: "cls-depth"
       name: "财联社 深度"
+    - id: "cls-hot"
+      name: "财联社 热门"
     - id: "fastbull-express"
       name: "法布财经 快讯"
     - id: "fastbull-news"
       name: "法布财经 头条"
+    - id: "douban"
+      name: "豆瓣"
+    - id: "36kr-quick"
+      name: "36氪 快讯"
+    - id: "36kr-renqi"
+      name: "36氪 人气榜"
+    - id: "freebuf"
+      name: "Freebuf 网络安全"
 
 # ===============================================================
 # 3. 数据源 - RSS 订阅
